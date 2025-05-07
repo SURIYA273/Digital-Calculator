@@ -1,4 +1,4 @@
-# 🔢 Simple Calculator
+## 🔢 Simple Calculator
 
 A sleek and responsive calculator web application built using **HTML**, **CSS**, and **JavaScript**. This project includes basic arithmetic operations, an all-clear function, and a custom erase (backspace) feature.
 
@@ -47,7 +47,7 @@ calculator/
 2. Open index.html in your browser.
 
 🎥 Video Demo
-📽️ Watch the video on [here]https://www.linkedin.com/posts/suriya273_webdevelopment-javascript-html-activity-7244543311720386560-kpUp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-PMboB_jE9vF6MuQLGY-fso3mMIoTthXA*
+📽️ Watch the video on [here](https://www.linkedin.com/posts/suriya273_webdevelopment-javascript-html-activity-7244543311720386560-kpUp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-PMboB_jE9vF6MuQLGY-fso3mMIoTthXA)*
 
 📌 Credits
 Project by Suriya D
