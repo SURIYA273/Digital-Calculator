@@ -30,12 +30,10 @@ A sleek and responsive calculator web application built using **HTML**, **CSS**,
 
 ## 📁 Project Structure
 
-calculator/
-├── index.html # Main HTML file
-├── style.css # CSS styling
-└── script.js # JavaScript logic
-
-
+│   ├── 📂 calculator
+│   ├── 📂 index.html  # Main HTML file
+│   ├── 📂 style.css # CSS styling
+│   └── 📂 script.js # JavaScript logic
 ---
 
 ## 🚀 How to Use
