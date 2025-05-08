@@ -57,4 +57,4 @@ Internship support by @Internpe
 📃 License
 This project is open-source and free to use for learning purposes. Give credit where it's due! ✨
 
-"© [2024] [STEP BY STEP CODING]. All rights reserved. This Project is protected by copyright. Any unauthorized , distribution, or exhibition of this project, in whole or in part, is strictly prohibited."
+
