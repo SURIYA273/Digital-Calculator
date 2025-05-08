@@ -24,7 +24,7 @@ A sleek and responsive calculator web application built using **HTML**, **CSS**,
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](screenshot.png) <!-- You can replace this with an actual screenshot -->
+![Calculator Screenshot](Calculator.png) 
 
 ---
 
